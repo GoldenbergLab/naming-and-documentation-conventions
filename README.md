@@ -39,8 +39,11 @@ tools: general tools associated with the lab.
 The last word in the reporsitory names shoudl **always** include the name of the person who created the repo. 
 
 
-
 ### Repository Names - rest of text
+
+The test of text should include information that would help an outside observer identify the specific meaning of the repo. 
+In addition, please follow these guidelines: 
+
 #### Use all lowercase letters.
 
 - :white_check_mark: `my-new-repository`
