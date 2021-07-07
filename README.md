@@ -28,8 +28,7 @@ Amazon S3 bucket names, RMarkdown file names, and so many more.
       - [Use descriptive phrases.](#use-descriptive-phrases)
       - [Use the minimum necessary words.](#use-the-minimum-necessary-words)
       - [Use category prefixes for nested channel naming.](#use-category-prefixes-for-nested-channel-naming)
-- [Code Conventions](#code-conventions)
-  * [JavaScript](#javascript)
+
 
 <!-- tocstop -->
 
@@ -106,13 +105,3 @@ which are category `studies`, or five different analysis-focused channels, which
 
 - :white_check_mark: `studies_twitter-survey` or `analysis_emotion-amplification`
 - :no_entry_sign: `studies-twitter-survey` or `emotion-amplification_analysis`
-
-
-# Code Conventions
-
-## JavaScript
-
-Anytime you use JavaScript, you should follow tried and true code style guidelines,
-and especially so when that code is shared. While we will adopt a set of lab-specific
-conventions for writing JavaScript over time, arguably the best style guide is the
-[Airbnb JavaScript Style Guide](https://airbnb.io/javascript/).
