@@ -1,4 +1,4 @@
-# Conventions
+# Naming Conventions
 
 **NOTE: Document in progress. Please make a feature request for things you 
 would like to see here.**
@@ -7,15 +7,10 @@ Conventions are helpful practices that teams follow to write code together. Ther
 many types of conventions that a lab strives to adhere to, such as _naming conventions_
 or _data management conventions_.
 
-The **easiest** conventions are **naming** conventions. We agree to a pattern of naming
-for any given topic of work we do because consistent, predictable names help us find
-what we're looking for. Named entities that we share are everywhere: Slack channels, GitHub repositories,
-Amazon S3 bucket names, RMarkdown file names, and so many more.
-
 <!-- toc -->
 
   * [GitHub](#github)
-    + [Repository Names](#repository-names)
+    + [Repository Names](#repository-names
       - [Use all lowercase letters.](#use-all-lowercase-letters-1)
       - [Use hyphenated spaces.](#use-hyphenated-spaces-1)
       - [Use versionless phrases.](#use-versionless-phrases)
