@@ -14,7 +14,6 @@ Amazon S3 bucket names, RMarkdown file names, and so many more.
 
 <!-- toc -->
 
-- [Tool Conventions](#tool-conventions)
   * [GitHub](#github)
     + [Repository Names](#repository-names)
       - [Use all lowercase letters.](#use-all-lowercase-letters-1)
@@ -24,16 +23,29 @@ Amazon S3 bucket names, RMarkdown file names, and so many more.
 
 <!-- tocstop -->
 
-# Tool Conventions
 
 ## GitHub
 
-### Repository Names
+### Repository Names - first word
 
 A lab's GitHub organization hosts many repositories that we use to collaborate. Each
 repository name should represent the most general possible topic description for that
-project. Our repository names should:
+project. All repositories **must** start with one of the following terms:
 
+task: refers to javascript/matlab/python tasks.
+analysis: all sorts of analysis and data processing.
+model: a computetional model. 
+download: a script for data download.
+class: code and data associated with classes that were taken by the lab.
+tools: general tools associated with the lab.
+
+### Repository Names - last word
+
+The last word in the reporsitory names shoudl **always** include the name of the person who created the repo. 
+
+
+
+### Repository Names - rest of text
 #### Use all lowercase letters.
 
 - :white_check_mark: `my-new-repository`
