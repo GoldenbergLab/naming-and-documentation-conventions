@@ -10,9 +10,9 @@ or _data management conventions_.
 <!-- toc -->
 
   * [GitHub](#github)
-    + [Repository Names](#repository-names
-      - [Use all lowercase letters.](#use-all-lowercase-letters-1)
-      - [Use hyphenated spaces.](#use-hyphenated-spaces-1)
+    + [Repository Names](#repository-names)
+      - [Use all lowercase letters.](#use-all-lowercase-letters)
+      - [Use hyphenated spaces.](#use-hyphenated-spaces)
       - [Use versionless phrases.](#use-versionless-phrases)
     + [Branch Names](#branch-names)
 
@@ -21,28 +21,34 @@ or _data management conventions_.
 
 ## GitHub
 
-### Repository Names - first word
+### Repository Names
 
 A lab's GitHub organization hosts many repositories that we use to collaborate. Each
-repository name should represent the most general possible topic description for that
-project. All repositories **must** start with one of the following terms:
+repository name should represent the most general possible description for that
+project. A few examples of repository names in our lab:
 
-task: refers to javascript/matlab/python tasks.
-analysis: all sorts of analysis and data processing.
-model: a computetional model. 
-download: a script for data download.
-class: code and data associated with classes that were taken by the lab.
-tools: general tools associated with the lab.
+- [`task-ethics-amplification-jonas`](https://github.com/GoldenbergLab/task-ethics-amplification-jonas)
+- [`download-loneliness-twitter-api`](https://github.com/GoldenbergLab/download-loneliness-twitter-api)
 
-### Repository Names - last word
+**First & Last Word**
 
-The last word in the reporsitory names shoudl **always** include the name of the person who created the repo. 
+In the Goldenberg Lab, all repositories **must start with** one of the following terms:
 
+- `task`: refers to JavaScript/MATLAB/Python tasks
+- `analysis`: all sorts of analysis and data processing
+- `model`: a computational model 
+- `download`: scripts for downloading data
+- `class`: code and data associated with classes that were taken by the lab
+- `tools`: general tools associated with the lab
 
-### Repository Names - rest of text
+And, they **should end with** the name of the person who created the repo.
 
-The test of text should include information that would help an outside observer identify the specific meaning of the repo. 
-In addition, please follow these guidelines: 
+_Note: There are a few exceptions to the rule, i.e., `twitter-survey-` prefixed projects or organizational health repos like `.github`). Please check with Amit to determine if your project might be such an exception._
+
+**Body**
+
+The rest of the repo's name should include information that would help an outside observer identify the project content of the repo. 
+Please follow these guidelines: 
 
 #### Use all lowercase letters.
 
