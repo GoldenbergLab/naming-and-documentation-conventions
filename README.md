@@ -27,9 +27,9 @@ A lab's GitHub organization hosts many repositories that we use to collaborate. 
 repository name should represent the most general possible description for that
 project. Some examples:
 
-- count-cats-survey-analysis
-- three-body-problem-download
-- ameeting-model
+- `count-cats-survey-analysis`
+- `three-body-problem-data-download`
+- `ameeting-model`
 
 **First & Last Word**
 
