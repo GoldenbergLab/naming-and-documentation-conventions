@@ -25,14 +25,15 @@ or _data management conventions_.
 
 A lab's GitHub organization hosts many repositories that we use to collaborate. Each
 repository name should represent the most general possible description for that
-project. A few examples of repository names in our lab:
+project. Some examples:
 
-- [`task-ethics-amplification-jonas`](https://github.com/GoldenbergLab/task-ethics-amplification-jonas)
-- [`download-loneliness-twitter-api`](https://github.com/GoldenbergLab/download-loneliness-twitter-api)
+- count-cats-survey-analysis
+- three-body-problem-download
+- ameeting-model
 
 **First & Last Word**
 
-In the Goldenberg Lab, all repositories **must start with** one of the following terms:
+In the Goldenberg Lab, all repositories **must end with** one of the following terms:
 
 - `task`: refers to JavaScript/MATLAB/Python tasks
 - `analysis`: all sorts of analysis and data processing
@@ -41,9 +42,7 @@ In the Goldenberg Lab, all repositories **must start with** one of the following
 - `class`: code and data associated with classes that were taken by the lab
 - `tools`: general tools associated with the lab
 
-And, they **should end with** the name of the person who created the repo.
-
-_Note: There are a few exceptions to the rule, i.e., `twitter-survey-` prefixed projects or organizational health repos like `.github`). Please check with Amit to determine if your project might be such an exception._
+And, they **should start with** the name of the project.
 
 **Body**
 
