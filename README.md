@@ -51,13 +51,13 @@ Please follow these guidelines:
 
 #### Use all lowercase letters.
 
-- :white_check_mark: `my-new-repository`
-- :no_entry_sign: `My-New-Repository`
+- :white_check_mark: `my-new-repository-class`
+- :no_entry_sign: `My-New-Repository-Class`
 
 #### Use hyphenated spaces.
 
-- :white_check_mark: `twitter-survey-client`
-- :no_entry_sign: `twitter_survey_client` or `twitterSurveyClient`
+- :white_check_mark: `twitter-survey-client-data`
+- :no_entry_sign: `twitter_survey_client_data` or `twitterSurveyClientData`
 
 #### Use versionless phrases.
 
@@ -65,8 +65,8 @@ If you find yourself wanting to version your repository name, you
 probably are interested in [releasing tagged versions](https://docs.github.com/en/github/administering-a-repository/managing-releases-in-a-repository)
 of the project instead.
 
-- :white_check_mark: `amplification`
-- :no_entry_sign: `amplification-10-02` or `amplification-v1`
+- :white_check_mark: `amplification-analysis`
+- :no_entry_sign: `amplification-analysis-10-02` or `amplification-analysis-v1`
 
 ### Branch Names
 
