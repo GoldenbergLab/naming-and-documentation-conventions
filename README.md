@@ -15,6 +15,7 @@ or _data management conventions_.
       - [Use hyphenated spaces.](#use-hyphenated-spaces)
       - [Use versionless phrases.](#use-versionless-phrases)
     + [Branch Names](#branch-names)
+    + [Descriptions](#descriptions)
 
 <!-- tocstop -->
 
@@ -76,3 +77,10 @@ contain bugs, errors, badly-written code, etc. In GitHub, the `main` branch is
 the default branch (or `master` if created prior to late 2020; update the default
 to `main` if so, [see why here](https://github.com/github/renaming)).
 
+### Descriptions
+Repository descriptions should include:
+- Project Name
+- Date of repository creation
+- Your name, and the names of other who worked on it
+- The purpose of the project and the main question you asked
+- The platform on which it was run (Prolific, MTURK, Qualtrics, etc.)
