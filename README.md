@@ -86,3 +86,9 @@ Repository descriptions should include:
 - Your name, and the names of other who worked on it
 - The purpose of the project and the main question you asked
 - The platform on which it was run (Prolific, MTURK, Qualtrics, etc.)
+
+### Commit names
+Every github commit should start with one of the following words:
+- modification: when a new code is added or removed. Designate the file and the purpose of the modification. 
+- fix: when a specific bug is fixed. 
+- file change: if files are added or removed. 
