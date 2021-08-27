@@ -34,7 +34,16 @@ project. Some examples:
 
 **First & Last Word**
 
-In the Goldenberg Lab, all repositories **must end with** one of the following terms:
+In the Goldenberg Lab, all repositories **should start with** the name of the project. This should be a comprehensive name that could be recognized by someone who doesn't know the project or the analysis. Here are some examples for bad names:
+- Joes-happiness
+- joe-version1
+- r-analysis-cats
+
+Here are some examples for good names: 
+- happiness-stanford-network-longetudinal
+- emotion-regulation-intevention-covid
+
+In addition all repository names **must end with** one of the following terms:
 
 - `task`: refers to JavaScript/MATLAB/Python tasks
 - `analysis`: all sorts of analysis and data processing
@@ -42,13 +51,6 @@ In the Goldenberg Lab, all repositories **must end with** one of the following t
 - `download`: scripts for downloading data
 - `class`: code and data associated with classes that were taken by the lab
 - `tools`: general tools associated with the lab
-
-And, they **should start with** the name of the project.
-
-**Body**
-
-The rest of the repo's name should include information that would help an outside observer identify the project content of the repo. 
-Please follow these guidelines: 
 
 #### Use all lowercase letters.
 
