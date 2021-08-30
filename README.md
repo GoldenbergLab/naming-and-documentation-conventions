@@ -89,6 +89,6 @@ Repository descriptions should include:
 
 ### Commit names
 Every github commit should start with one of the following words:
-- modification: when a new code is added or removed. Designate the file and the purpose of the modification. 
-- fix: when a specific bug is fixed. 
-- file change: if files are added or removed. 
+- `modification`: when a new code is added or removed. Designate the file and the purpose of the modification. 
+- `fix`: when a specific bug is fixed. 
+- `file change`: if files are added or removed. 
