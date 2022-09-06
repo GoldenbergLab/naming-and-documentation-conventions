@@ -24,17 +24,19 @@ or _data management conventions_.
 
 ### Repository Names
 
-A lab's GitHub organization hosts many repositories that we use to collaborate. Each
-repository name should represent the most general possible description for that
-project. Some examples:
+The general structure of repository names is:
 
-- `count-cats-survey-analysis`
-- `three-body-problem-data-download`
-- `ameeting-model`
+[KEYWORD]-general-description-of-project-[LEADNAME]
+
+Some examples:
+
+- `analysis-count-cats-survey-jonas`
+- `download-three-body-problem-data-zi`
+- `model-ameeting-amit`
 
 **Sturcture of name**
 
-In addition all repository names **must start with** one of the following terms:
+Starting keywords include:
 
 - `task`: refers to JavaScript/MATLAB/Python tasks
 - `analysis`: all sorts of analysis and data processing
@@ -44,14 +46,14 @@ In addition all repository names **must start with** one of the following terms:
 - `tools`: general tools associated with the lab
 
 
-In the Goldenberg Lab, all repositories **should follow with** the name of the project. This should be a comprehensive name that could be recognized by someone who doesn't know the project or the analysis. Here are some examples for bad names:
+Here are some examples for bad names:
 - Joes-happiness
 - joe-version1
 - r-analysis-cats
 
 Here are some examples for good names: 
-- task-happiness-stanford-network-longetudinal
-- analysis-emotion-regulation-intevention-covid
+- `task-happiness-stanford-network-longetudinal-amit`
+- `analysis-emotion-regulation-intevention-covid-zi`
 
 #### Use all lowercase letters.
 
