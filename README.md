@@ -84,11 +84,12 @@ to `main` if so, [see why here](https://github.com/github/renaming)).
 
 ### Descriptions
 Repository descriptions should include:
-- Project Name
-- Date of repository creation
-- Your name, and the names of other who worked on it
-- The purpose of the project and the main question you asked
-- The platform on which it was run (Prolific, MTURK, Qualtrics, etc.)
+- Project Name (as the title)
+
+- **Project goal:** [state the purpose] *The goal of this project is to...*
+- **Important files:** [files you need to run the task] *index.html*
+- **Papers:** [cite papers here]
+- **To use this task:** *Clone repository and use the main task file. You may have to comment out the consent (line XYZ) to run the task locally.* 
 
 ### Commit names
 Every github commit should start with one of the following words:
