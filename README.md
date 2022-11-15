@@ -1,4 +1,4 @@
-# Naming Conventions
+# Repository Naming and Documentation Conventions
 
 **NOTE: Document in progress. Please make a feature request for things you 
 would like to see here.**
