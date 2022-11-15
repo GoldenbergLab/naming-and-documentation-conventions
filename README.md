@@ -22,6 +22,11 @@ or _data management conventions_.
 
 ## GitHub
 
+
+### Sample
+
+See a sample of a well-named and documented repository [here](https://github.com/GoldenbergLab/task-rl-phone-inspection-zi)
+
 ### Repository Names
 
 The general structure of repository names is:
