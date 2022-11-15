@@ -10,6 +10,7 @@ or _data management conventions_.
 <!-- toc -->
 
   * [GitHub](#github)
+    + [Sample](#sample)
     + [Repository Names](#repository-names)
       - [Use all lowercase letters.](#use-all-lowercase-letters)
       - [Use hyphenated spaces.](#use-hyphenated-spaces)
@@ -25,7 +26,7 @@ or _data management conventions_.
 
 ### Sample
 
-See a sample of a well-named and documented repository [here](https://github.com/GoldenbergLab/task-rl-phone-inspection-zi)
+See a sample of a well-named and documented repository [here](https://github.com/GoldenbergLab/task-rl-phone-inspection-zi).
 
 ### Repository Names
 
