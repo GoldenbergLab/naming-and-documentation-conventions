@@ -102,3 +102,9 @@ Every github commit should start with one of the following words:
 - `modification`: when a new code is added or removed. Designate the file and the purpose of the modification. 
 - `fix`: when a specific bug is fixed. 
 - `file change`: if files are added or removed. 
+
+### Releases
+
+Every **task** must have a release. 
+
+To draft a new release you need to click on the right hand side of the GitHub repository and then press the releases button. Next you need to title your release; title it based off of the name of the repository. Give your release a tag, we typically use the tag V number, which corresponds to the version and number of the test that you are creating. Then describe your release, you can copy and paste to read me and any other relevant information. Making releases of your task is critical to allow other people to easily access them.
