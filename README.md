@@ -17,6 +17,7 @@ or _data management conventions_.
       - [Use versionless phrases.](#use-versionless-phrases)
     + [Branch Names](#branch-names)
     + [Descriptions](#descriptions)
+    + [Releases](#releases)
 
 <!-- tocstop -->
 
