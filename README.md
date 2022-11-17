@@ -106,7 +106,7 @@ Every github commit should start with one of the following words:
 
 ### Releases
 
-Every **task** must have a release. 
+Every **task** must have a release.
 
 1. To draft a new release you need to click on the right hand side of the GitHub repository and then press the releases button. 
 2. Next you need to title your release; title it based off of the name of the repository. 
