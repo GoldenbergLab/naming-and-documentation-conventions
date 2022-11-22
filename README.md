@@ -103,11 +103,9 @@ Every github commit should start with one of the following words:
 
 ### Releases
 
-Every **task** must have a release.
+Every **task** must have a release. A release is a packaged version of the task that can be downloaded and run by anyone interested in our task. Having releases allows for our tasks to be more easily accessible. After a task has been successfully ran online, push the latest version of the task to the repository and make the release. 
 
 1. To draft a new release you need to click on the right hand side of the GitHub repository and then press the releases button. 
 2. Next you need to title your release; title it based off of the name of the repository. 
 3. Give your release a tag, we typically use the tag V number, which corresponds to the version and number of the test that you are creating (`v1.0`)
 4. Then describe your release, you can copy and paste to read me and any other relevant information. 
-
-Making releases of your task is critical to allow other people to easily access them.
