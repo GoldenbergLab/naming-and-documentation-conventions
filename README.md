@@ -89,6 +89,8 @@ contain bugs, errors, badly-written code, etc. In GitHub, the `main` branch is
 the default branch (or `master` if created prior to late 2020; update the default
 to `main` if so, [see why here](https://github.com/github/renaming)).
 
+For our lab specifically, branches are also used to keep variations of our tasks in the same place. For example, if you have one variation of a task with a 7-point scale and another variation of the same task with a continuous scale, you may consider putting them on two separate branches. This allows us to keep the task in one place while still differentiating it. 
+
 ### Descriptions
 Repository descriptions should include:
 - Project Name (as the title)
