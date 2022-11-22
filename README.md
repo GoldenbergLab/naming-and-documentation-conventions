@@ -5,12 +5,12 @@ would like to see here.**
 
 Conventions are helpful practices that teams follow to write code together. There are
 many types of conventions that a lab strives to adhere to, such as _naming conventions_
-or _data management conventions_.
+or _data management conventions_. See an example of a well-named and documented repository [here](https://github.com/GoldenbergLab/task-rl-phone-inspection-zi).
 
 <!-- toc -->
 
   * [GitHub](#github)
-    + [Sample](#sample)
+
     + [Repository Names](#repository-names)
       - [Use all lowercase letters.](#use-all-lowercase-letters)
       - [Use hyphenated spaces.](#use-hyphenated-spaces)
@@ -23,11 +23,6 @@ or _data management conventions_.
 
 
 ## GitHub
-
-
-### Example
-
-See an example of a well-named and documented repository [here](https://github.com/GoldenbergLab/task-rl-phone-inspection-zi).
 
 ### Repository Names
 
